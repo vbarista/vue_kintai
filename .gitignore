@@ -5,6 +5,7 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 # Ignore bundler config.
+/nbproject
 /.bundle
 /.ruby-version
 /vendor/bundle
@@ -33,3 +34,4 @@ doc/
 .idea
 .secret
 
+/nbproject/private/
